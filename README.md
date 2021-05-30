@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @percuciat
-- 👀 I’m interested in front-end
-- 🌱 I’m currently learning JS =) (React, TS)
+- 👀 interested in front-end (React, Vue)
 
 <!---
 percuciat/percuciat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
