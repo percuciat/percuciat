@@ -4,7 +4,7 @@
 
 ### Connect with me:
 
-[site](https://maksim-semenov.ru)
+[website](https://maksim-semenov.ru)
 <br />
 [linkedin](https://www.linkedin.com/in/maksim-semenov-244398197)
 
