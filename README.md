@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @percuciat
+- 👋 Hi, I’m @percuciat22
 - 👀 interested in front-end (React, Vue)
 
 <!---
