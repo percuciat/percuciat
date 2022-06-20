@@ -1,4 +1,4 @@
-👋 Hi, I’m Maksim;
+Hi there 👋 
 
 ![Percuciat's GitHub stats](https://github-readme-stats.vercel.app/api?username=percuciat&show_icons=true&theme=tokyonight)
 
