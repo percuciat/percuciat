@@ -2,6 +2,8 @@
 - 👀 interested in front-end development;
 - 🥅 like to create useful projects;
 
+[![Profile badge](https://www.codewars.com/users/percuciat/badges/large)](https://www.codewars.com/users/percuciat)
+
 ### Connect with me:
 
 [website](https://maksim-semenov.ru)
