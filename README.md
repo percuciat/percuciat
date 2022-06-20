@@ -1,6 +1,5 @@
 # Hi there 👋 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=percuciat&show_icons=true&theme=tokyonight)
 
 - 👀 interested in front-end development;
 - 🥅 like to create useful projects;
