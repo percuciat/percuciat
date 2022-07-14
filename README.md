@@ -2,7 +2,7 @@
 
 
 - 👀 interested in front-end development;
-- 🥅 like to create useful projects;
+- 🥅 like create useful projects;
 
 [![Profile badge](https://www.codewars.com/users/percuciat/badges/large)](https://www.codewars.com/users/percuciat)
 
