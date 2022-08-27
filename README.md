@@ -6,7 +6,8 @@
 
 ### Connect with me:
 
-[website](https://maksim-semenov.ru)
+[telegram](https://t.me/percuciat)
+
 <br />
 
 
