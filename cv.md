@@ -26,6 +26,7 @@ React, TypeScript, JavaScript, Redux Toolkit, NextJS, MobX, Effector, Zustand, J
 
 **Ведущий инженер**
 *Март 2025 — настоящее время (10 месяцев)*
+
 **Проект: Саморегистрация SIM-карт онлайн** ([beeline.ru/basket](https://beeline.ru/basket/))
 - Разработка frontend для мобильных и десктопных устройств (React + TypeScript) в кросс-функциональной команде (8 человек, включая 2 frontend-разработчиков).
 - Проектирование архитектуры на основе **Feature-Sliced Design (FSD)**.
@@ -43,6 +44,7 @@ React, TypeScript, JavaScript, Redux Toolkit, NextJS, MobX, Effector, Zustand, J
 
 **Ведущий инженер**
 *Март 2025 — настоящее время (10 месяцев)*
+
 **Проект: Core Web Beeline** ([beeline.ru](https://beeline.ru))
 - Участие в проектировании архитектуры, разработке и сопровождении веб-продуктов от макета до релиза.
 - Реализация кастомной бизнес-логики и продвинутой анимации (GSAP, Lottie, Framer-motion).
@@ -72,6 +74,7 @@ React, TypeScript, JavaScript, Redux Toolkit, NextJS, MobX, Effector, Zustand, J
 
 **Инженер-программист**
 *Июль 2024 — Март 2025 (9 месяцев)*
+
 **Проект: Ипотечный маркетплейс** ([cian.ru/ipoteka-main](https://cian.ru/ipoteka-main/))
 - Разработка фронтенд-части по макетам Figma в команде из 7 человек.
 - Интеграция с **REST API**, проектирование контрактов сущностей (Backend First).
@@ -96,6 +99,7 @@ React, TypeScript, JavaScript, Redux Toolkit, NextJS, MobX, Effector, Zustand, J
 
 **Frontend-разработчик**
 *Февраль 2021 — Июль 2024 (3 года 6 месяцев)*
+
 **Проект: Корпоративное дистанционное банковское обслуживание** ([online.sovcombank.ru](https://online.sovcombank.ru/))
 - Разработка legacy-приложения, рефакторинг архитектуры для масштабируемости.
 - Миграция проекта на **Webpack**, настройка **Docker** и **CI/CD**.
@@ -110,6 +114,7 @@ React, TypeScript, JavaScript, Redux Toolkit, NextJS, MobX, Effector, Zustand, J
 
 **Frontend-разработчик**
 *Февраль 2021 — Июль 2024 (3 года 6 месяцев)*
+
 **Проект: Цифровой офис**
 - Проектирование архитектуры с нуля, вёрстка по макетам Figma.
 - Реализация системы аутентификации на **JWT**, интеграция Ant Design.
